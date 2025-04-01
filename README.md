@@ -2,7 +2,8 @@
 
 <div>
    <a href="https://github.com/lkaroolanne">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lkaroolanne&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkaroolanne&layout=compact&langs_count=8&theme=tokyonight&custom_title=Linguagens%20mais%20usadas&card_width=320&count_private=true"/>
+
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkaroolanne&layout=compact&langs_count=6&theme=tokyonight&hide=html,css&custom_title=Linguagens%20mais%20usadas&langs_count=8&card_width=320&count_private=true"/>
 </div>
     
