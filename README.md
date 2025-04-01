@@ -17,13 +17,38 @@
 <br>
 
 ### Sobre Mim
-Sou desenvolvedora com experiência em diversas tecnologias e áreas, incluindo:  
+Sou desenvolvedora júnior na **ARCHS**, com experiência em diversas tecnologias e áreas, incluindo:  
 - **Programação**: Proficiência em **JavaScript** e **Python**.  
-- **Visualização de Dados**: Habilidade com **Power BI** para criar dashboards e relatórios interativos.  
-- **Banco de Dados**: Experiência em **MySQL** e outros sistemas de gerenciamento de banco de dados.  
-- **Desenvolvimento Web**: Conhecimentos sólidos em **HTML** e **CSS**.  
+- **Engenharia de Dados**: Certificada e experiente em análise e modelagem de dados.  
+- **Desenvolvimento Full Stack**: Certificação e prática em **frontend** e **backend**.  
+- **Visualização de Dados**: Criação de dashboards interativos com **Power BI**.  
+- **Banco de Dados**: Conhecimentos sólidos em **MySQL** e outros sistemas de gerenciamento.  
+- **Desenvolvimento Web**: HTML, CSS e boas práticas de UI/UX.  
+- **Game Studio**: Experiência no desenvolvimento de jogos.  
+- **Criadora de Conteúdo**: Produção de vídeos para **YouTube**, abordando **games e true crimes**.  
+  
+Estou sempre em busca de novos desafios e aprendizados no universo da tecnologia. 🚀  
 
-Estou sempre em busca de novos desafios e aprendizados no universo da tecnologia.
+<br>
+
+### 📊 Estatísticas Dinâmicas
+
+Essas estatísticas são atualizadas automaticamente!
+
+```yaml
+name: Atualizar GitHub Stats
+on:
+  schedule:
+    - cron: "0 0 * * *" # Atualiza todo dia à meia-noite
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Atualizando informações
+        uses: anuraghazra/github-readme-stats@master
+```
 
 <br>
  
