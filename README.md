@@ -3,7 +3,7 @@
 <div>
    <a href="https://github.com/lkaroolanne">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lkaroolanne&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkaroolanne&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkaroolanne&layout=compact&langs_count=6&theme=tokyonight&hide=html,css&custom_title=Linguagens%20mais%20usadas&langs_count=8&card_width=320&count_private=true"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -17,38 +17,13 @@
 <br>
 
 ### Sobre Mim
-Sou desenvolvedora júnior na **ARCHS**, com experiência em diversas tecnologias e áreas, incluindo:  
+Sou desenvolvedora com experiência em diversas tecnologias e áreas, incluindo:  
 - **Programação**: Proficiência em **JavaScript** e **Python**.  
-- **Engenharia de Dados**: Certificada e experiente em análise e modelagem de dados.  
-- **Desenvolvimento Full Stack**: Certificação e prática em **frontend** e **backend**.  
-- **Visualização de Dados**: Criação de dashboards interativos com **Power BI**.  
-- **Banco de Dados**: Conhecimentos sólidos em **MySQL** e outros sistemas de gerenciamento.  
-- **Desenvolvimento Web**: HTML, CSS e boas práticas de UI/UX.  
-- **Game Studio**: Experiência no desenvolvimento de jogos.  
-- **Criadora de Conteúdo**: Produção de vídeos para **YouTube**, abordando **games e true crimes**.  
-  
-Estou sempre em busca de novos desafios e aprendizados no universo da tecnologia. 🚀  
+- **Visualização de Dados**: Habilidade com **Power BI** para criar dashboards e relatórios interativos.  
+- **Banco de Dados**: Experiência em **MySQL** e outros sistemas de gerenciamento de banco de dados.  
+- **Desenvolvimento Web**: Conhecimentos sólidos em **HTML** e **CSS**.  
 
-<br>
-
-### 📊 Estatísticas Dinâmicas
-
-Essas estatísticas são atualizadas automaticamente!
-
-```yaml
-name: Atualizar GitHub Stats
-on:
-  schedule:
-    - cron: "0 0 * * *" # Atualiza todo dia à meia-noite
-  workflow_dispatch:
-
-jobs:
-  update-stats:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Atualizando informações
-        uses: anuraghazra/github-readme-stats@master
-```
+Estou sempre em busca de novos desafios e aprendizados no universo da tecnologia.
 
 <br>
  
@@ -65,3 +40,39 @@ jobs:
   <a href="https://wa.me/5511915700707" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
+
+---
+
+### 📌 Atualização Automática
+Para garantir que seu perfil sempre exiba os dados mais recentes, crie um **GitHub Actions** para atualizar automaticamente as estatísticas a cada novo commit:
+
+1. No seu repositório do GitHub, vá para `Actions`.
+2. Crie um novo **workflow**.
+3. Adicione o seguinte código no arquivo `.github/workflows/update-readme.yml`:
+
+```yaml
+name: Update README
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update README stats
+        uses: anuraghazra/github-readme-stats@master
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add README.md
+          git commit -m 'Atualizando estatísticas do perfil' || exit 0
+          git push
+```
+
+Agora, sempre que você subir um commit, seu perfil será atualizado automaticamente! 🚀
