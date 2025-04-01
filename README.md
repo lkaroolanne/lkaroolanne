@@ -3,9 +3,6 @@
 <div>
    <a href="https://github.com/lkaroolanne">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkaroolanne&layout=compact&langs_count=8&theme=tokyonight&custom_title=Linguagens%20mais%20usadas&card_width=320&count_private=true"/>
-
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkaroolanne&layout=compact&langs_count=6&theme=tokyonight&hide=html,css&custom_title=Linguagens%20mais%20usadas&langs_count=8&card_width=320&count_private=true"/>
-</div>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
