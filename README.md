@@ -1,57 +1,164 @@
-# 👋 Olá, eu sou a Karolanne  
+# 👋 Olá! Eu sou a **Karolanne Lima**
 
-💡 Apaixonada por **tecnologia, inovação e aprendizado contínuo**.  
-Sempre em busca de desafios que me permitam evoluir como desenvolvedora e contribuir com soluções criativas no mundo da tecnologia. 🚀  
+Sou desenvolvedora apaixonada por **tecnologia, back-end, APIs, automação e soluções que realmente ajudam pessoas**.  
+Atualmente, finalizei meu ciclo profissional recente e estou **aberta a novas oportunidades** (CLT, PJ ou freelance).  
+
+Aqui você encontra minha evolução, meus projetos reais e tudo o que venho construindo no universo da tecnologia. 🚀
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub  
+# 🚀 Sobre Mim
+
+- 🎓 Estudante de **Engenharia de Software – Anhanguera**
+- 🧠 Focada em **desenvolvimento back-end, integrações e arquitetura**
+- 💳 Experiência prática com sistemas reais:
+  - Sistema de **Chamados**
+  - **Banco Digital (BaaS)** – Frontend + Backend
+  - **Vivlat** – Sistema de Pagamento de IPVA
+- 💡 Apaixonada por transformar ideias em sistemas que funcionam de verdade
+- 🌱 Aprimorando: Node.js, arquitetura limpa, SQL, Docker e análise de dados
+
+---
+
+# 🛠️ Tecnologias & Ferramentas
+
+### **Linguagens**
+- JavaScript  
+- Python  
+
+### **Back-end**
+- Node.js  
+- Express  
+- REST APIs  
+
+### **Banco de Dados**
+- PostgreSQL  
+- MySQL  
+
+### **Front-end**
+- HTML5  
+- CSS3  
+
+### **Ambiente & DevOps**
+- Docker  
+- Postman  
+- Git & GitHub  
+
+### **Outros**
+- Power BI  
+- UX simples e funcional  
+- Noções de arquitetura limpa  
+
+---
+
+# 🚀 Projetos Reais
+
+Aqui estão os projetos reais em que atuei e que fazem parte da minha experiência prática.
+
+---
+
+## 🔧 **Sistema de Chamados – Backend Completo**
+Sistema para organização de demandas internas, automação de fluxos e otimização operacional.
+
+🔗 Repositório:  
+➡ https://github.com/archstech/xamado-backend.git  
+
+**Tecnologias:**  
+- Node.js  
+- Express  
+- Docker  
+- PostgreSQL  
+- Autenticação  
+- CRUD completo  
+- Organização de rotas e middleware  
+
+---
+
+## 🏦 **Banco Digital (BaaS) – Sistema Financeiro Completo**
+
+Desenvolvido para simular um ambiente bancário real com gestão de usuários, contas, autenticação, transações e integrações.
+
+### 🔹 Frontend – Interface Moderna
+➡ https://github.com/archstech/bank-frontend  
+
+### 🔹 Backend – API Robusta
+➡ https://github.com/archstech/bank-backend  
+
+**Tecnologias:**  
+- Node.js  
+- Express  
+- PostgreSQL  
+- Docker  
+- JWT Authentication  
+- Criação de contas, saldo, transações, extratos  
+- Testes com Postman  
+
+---
+
+## 💳 **Vivlat – Sistema de Pagamento de IPVA**
+
+Sistema moderno e seguro focado em facilitar o pagamento de taxas como IPVA.
+
+### 🔹 Frontend
+➡ https://github.com/Vivaldi-Tech/payments-frontend.git
+
+### 🔹 Backend
+➡ https://github.com/Vivaldi-Tech/payments-backend.git
+
+**Tecnologias:**  
+- Node.js  
+- Express  
+- Integração com APIs externas  
+- Logs e captura de erros  
+- Fluxo de pagamento  
+- Segurança e tratamento de dados  
+
+---
+
+# 📁 Outros Projetos Públicos
+
+### 🔹 Portfólio Oficial  
+➡ https://github.com/lkaroolanne/Portfolio  
+
+### 🔹 Repositório Geral de Estudos e Projetos  
+➡ https://github.com/lkaroolanne/Projetos  
+
+### 🔹 Repositórios diversos no meu GitHub  
+➡ *Confira todos no meu perfil*  
+
+---
+
+# 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
   <a href="https://github.com/lkaroolanne">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lkaroolanne&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkaroolanne&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
-</div>  
+</div>
 
 ---
 
-## 🖥️ Tecnologias & Ferramentas  
+# 🤝 Aberta a Oportunidades
 
-- **Linguagens:** JavaScript | Python  
-- **Front-end:** HTML | CSS  
-- **Banco de Dados:** MySQL  
-- **Outros:** Git | VS Code | Power BI  
+Se você está buscando uma desenvolvedora com:
 
----
+- Experiência real em sistemas  
+- Rápido aprendizado  
+- Dedicação  
+- Organização e foco  
+- Capacidade de construir e evoluir projetos  
 
-## 🚀 Projetos em Destaque  
-
-🔹 [Archstech - Bank Frontend](https://github.com/archstech/bank-frontend) → Interface moderna para sistema bancário.  
-
-🔹 [Archstech - Bank Backend](https://github.com/archstech/bank-backend) → API robusta para gestão financeira.  
-
-🔹 [Portfolio](https://github.com/lkaroolanne/Portfolio) → Meu portfólio pessoal com projetos e experiências.  
-
-🔹 [Projetos Diversos](https://github.com/lkaroolanne/Projetos) → Repositório de estudos, experimentos e aprendizados.  
+📩 **Estou disponível para entrevistas, desafios técnicos e novas oportunidades.**
 
 ---
 
-## 🌱 Sobre Mim  
+# 🌐 Me Encontre Aqui
 
-- 🎓 Estudante de **Engenharia de Software** na **Cruzeiro do Sul**  
-- 📊 Curiosa por **análise de dados** e **visualização inteligente** de informações  
-- 💡 Acredito que a **tecnologia transforma ideias em impacto real**  
-- ✨ Minha meta é **crescer no desenvolvimento** e contribuir para projetos que façam diferença  
-
----
-
-## 🌐 Vamos nos conectar!  
-
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lkaroolanne/)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lkaroolanne)  
-[![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karolanne.dev@gmail.com)  
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lkaroolanne/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karolanne.dev@gmail.com)
 
 ---
 
-✨ *“A tecnologia não é apenas sobre código, mas sobre criar impacto e transformar ideias em realidade.”*  
+✨ *“Tecnologia não é apenas escrever código — é resolver problemas e transformar ideias em impacto real.”*
